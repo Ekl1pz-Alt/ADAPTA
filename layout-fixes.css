@@ -1,0 +1,4 @@
+/* Navegación anclada al borde físico de pantalla, también con área segura móvil. */
+.app-shell{min-height:100svh;padding-bottom:0}
+.bottom-nav{position:fixed!important;left:50%!important;right:auto!important;bottom:0!important;transform:translateX(-50%)!important;height:calc(74px + env(safe-area-inset-bottom,0px));padding:8px 5px calc(8px + env(safe-area-inset-bottom,0px));align-items:start}
+.view{padding-bottom:calc(116px + env(safe-area-inset-bottom,0px))}

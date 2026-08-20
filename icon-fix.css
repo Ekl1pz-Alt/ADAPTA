@@ -1,0 +1,2 @@
+/* Sustitución vectorial estable para todos los iconos de tarjetas. */
+.initial.app-icon{display:grid;place-items:center;color:var(--navy)}.initial.app-icon:before,.initial.app-icon:after{display:none!important}.initial.app-icon svg{display:block;width:23px;height:23px;stroke:currentColor;stroke-width:1.85;stroke-linecap:round;stroke-linejoin:round;fill:none}.quick .initial.app-icon svg{width:18px;height:18px}.quick .initial.app-icon:before,.quick .initial.app-icon:after{display:none!important}

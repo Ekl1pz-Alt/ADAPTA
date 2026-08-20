@@ -1,0 +1,15 @@
+{
+  "name": "ADAPTA — Comprender. Acompañar. Incluir.",
+  "short_name": "ADAPTA",
+  "description": "Orientación educativa en neurodesarrollo, aprendizaje y educación inclusiva.",
+  "lang": "es-MX",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fbf8fd",
+  "theme_color": "#5a4879",
+  "icons": [
+    { "src": "assets/adapta-icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "assets/adapta-icon-maskable.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "maskable" }
+  ]
+}
